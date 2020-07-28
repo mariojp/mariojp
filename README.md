@@ -1,4 +1,4 @@
-### Hello, there 👋
+### Hello!👋
 ### Olá!👋
 
 Meu nome é Mario.
